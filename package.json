@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react",
+  "name": "JaeUng's-chrome-extension-boilerplate-react",
   "version": "4.0.1",
-  "description": "A chrome extension boilerplate built with React 17 and Webpack 5",
+  "description": "안녕하세요 보일러로 하는 첫 시도입니다.",
   "license": "MIT",
   "repository": {
     "type": "git",

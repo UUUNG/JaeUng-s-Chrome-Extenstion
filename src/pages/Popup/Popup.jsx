@@ -9,7 +9,7 @@ const Popup = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/pages/Popup/Popup.js</code> and save to reload.
+          여기가 팝업을 다루는 파일입니다. (src/pages/Popup)
         </p>
         <a
           className="App-link"
